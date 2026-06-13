@@ -1,0 +1,25 @@
+{
+  "name": "practice-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayanjc3639q/practice-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sayanjc3639q/practice-repo/issues"
+  },
+  "homepage": "https://github.com/sayanjc3639q/practice-repo#readme",
+  "dependencies": {
+    "node": "^26.3.0"
+  }
+}
